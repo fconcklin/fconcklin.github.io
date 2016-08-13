@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://fconcklin.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: cat `dmesg` | hexdump -C 
+subtitle: 0xheadbeef.
+author: ephcon
 simple_search: https://www.google.com/search
 description:
 
